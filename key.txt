@@ -1,0 +1,5 @@
+@echo off
+echo.
+echo numero: 18330428
+echo.
+pause
